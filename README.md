@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Samuel-Torres/Samuel-Torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/images/modern-luxury-logo-design.jpg" width="1200" height="600">
 
 Here are some ideas to get you started:
 
