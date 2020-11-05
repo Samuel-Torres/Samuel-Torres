@@ -12,3 +12,8 @@ Due to my mother's advice, I chose to go high risk in the music industry in lieu
 
 If you'd like to get in touch or to be a part of my network my point of contacts are below!
 
+
+
+<img src="/images/linkedin.png" width="2.5%"> [LinkedIn](https://www.linkedin.com/in/storres7539/)
+
+<img src="/images/twitter.png" width="2.5%"> [Twitter](https://twitter.com/STorres_Dev)
