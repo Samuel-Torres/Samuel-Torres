@@ -14,7 +14,9 @@ Due to my mother's advice, I chose to go high risk in the music industry in lieu
 
 If you'd like to get in touch or to be a part of my network my point of contacts are below!
 
-
+<a href="https://github.com/Samuel-Torres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christopher-Barrett&theme=buefy&show_icons=true" />
+</a>
 
 <img src="/images/linkedin.png" width="2.5%"> [LinkedIn](https://www.linkedin.com/in/storres7539/)
 
