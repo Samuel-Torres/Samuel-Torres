@@ -1,9 +1,14 @@
-### Samuel Torres - Software Engineer
+# Samuel Torres - Software Engineer
 
 <p align="center">
   <img src="/images/banner.png"/>
 </p>
 
+<p align="center">
+
+  ### Profile Views
+  <img height="180em" src="https://profile-counter.glitch.me/Samuel-Torres/count.svg" />
+  
 <p align="center">
   With over a year of experience as a full-stack software engineer, I have developed a strong skill set and a passion for problem-solving. I am proficient in front-end technologies such as React.js, Next.js, Ember.js, Handlebars.js, and fastboot.js, as well as back-end technologies such as Node.js, Express, Knex, Strapi, and PostgreSQL. I am also certified in full-stack web development and scrum master by Lambda School and Scrum Alliance, respectively.
 </p>
