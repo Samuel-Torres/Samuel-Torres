@@ -14,6 +14,11 @@ If you'd like to get in touch or to be a part of my network my point of contacts
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Torres&theme=buefy&show_icons=true" />
 </a>
 
-<img src="/images/linkedin.png" width="2.5%"> [LinkedIn](https://www.linkedin.com/in/storres7539/)
+<p align="center">
 
-<img src="/images/twitter.png" width="2.5%"> [Twitter](https://twitter.com/STorres_Dev)
+  <a href="https://www.linkedin.com/in/storres7539">
+  <img src="/images/linkedin.png" width="2.5%"> 
+    </a>
+      <a href="https://github.com/Samuel-Torres">
+  <img src="/images/twitter.png" width="2.5%">  
+      </a>
