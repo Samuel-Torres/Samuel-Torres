@@ -19,6 +19,6 @@ If you'd like to get in touch or to be a part of my network my point of contacts
   <a href="https://www.linkedin.com/in/storres7539">
   <img src="/images/linkedin.png" width="2.5%"> 
     </a>
-      <a href="https://github.com/Samuel-Torres">
+      <a href="https://www.samueltorres.us/">
   <img src="/images/twitter.png" width="2.5%">  
       </a>
