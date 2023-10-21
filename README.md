@@ -21,7 +21,9 @@
 </p>
 
 <a href="https://github.com/Samuel-Torres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Torres&theme=buefy&show_icons=true" />
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Torres&theme=tokyonight&show_icons=true" />
+  </p>
 </a>
 
 <p align="center">
