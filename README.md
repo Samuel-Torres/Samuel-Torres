@@ -1,7 +1,7 @@
 ### Samuel Torres - Software Engineer
 
 <p align="center">
-  <img src="/images/grid_large_preview.jpg" >
+  <img src="/images/grid_large_preview.jpg" width="940" height="632" />
 </p>
 
 <p align="center">
